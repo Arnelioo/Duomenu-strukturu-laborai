@@ -1,0 +1,21 @@
+Antanaitis   Opel    5   2002   Black   22000
+Juozaitis    VW      5   2009   White   22500
+Giedraitis   Audi    5   2010   Silver  23200
+Petraitis    VW      5   2010   Black   27000
+Rokaitis     Subaru  5   2005   White   25800
+Onaitė       VW      6   2007   Silver  23300
+Pranaitis    Toyota  7   2012   Blue    23500
+Povilaitis   VW      5   2011   White   24600
+Grybauskas   Opel    6   2008   Green   20500
+Lazauskas    Fiat    5   2015   Green   25555
+Lukaitis     Ford    6   2017   Yellow  26590
+Jonaitis     Ford    7   2013   Green   21305
+Petraitis    Fiat    5   2011   White   26040
+Paulaitis    VW      5   2009   Blue    25733
+Adomaitis    Opel    5   2010   Red     23506
+Erikaitis    VW      6   2015   Yellow  19658
+Gustaitis    Tayota  5   2012   White   18564
+Benaitis     Audi    6   2008   Silver  20019
+Mantaitis    Fiat    5   2018   Green   16987
+Tomaitis     VW      5   2016   Green   24652
+
