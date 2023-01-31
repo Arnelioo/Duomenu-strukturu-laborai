@@ -1,0 +1,5 @@
+Filmas13    Veiksmo        Studija2    Režisierius3   2005   490,3
+Filmas14    Dokumentinis   Studija6    Režisierius8   2013   888,0
+Filmas15    Superherojų    Studija5    Režisierius3   2012   1020,0
+Filmas16    Veiksmo        Studija3    Režisierius4   1995   658,0
+Filmas17    Nuotykių       Studija2    Režisierius6   2016   1064,0

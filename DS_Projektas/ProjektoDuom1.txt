@@ -1,0 +1,12 @@
+Filmas1    Drama          Studija1    Režisierius1   2000   460,3
+Filmas2    Dokumentinis   Studija2    Režisierius2   2013   723,0
+Filmas3    Superherojų    Studija1    Režisierius3   2008   1000,0
+Filmas4    Veiksmo        Studija3    Režisierius4   1997   895,0
+Filmas5    Nuotykių       Studija4    Režisierius5   2012   1003,0
+Filmas6    Nuotykių       Studija5    Režisierius6   2016   965,0
+Filmas7    Siaubo         Studija6    Režisierius4   2009   452,0
+Filmas8    Superherojų    Studija4    Režisierius7   2019   286,0
+Filmas9    Komedija       Studija6    Režisierius8   1994   679,2
+Filmas10   Drama          Studija7    Režisierius5   2019   785,8
+Filmas11   Veiksmo        Studija5    Režisierius4   2015   822,1
+Filmas12   Superherojų    Studija3    Režisierius3   2013   933,0
